@@ -5,9 +5,6 @@
 	import "@fontsource/roboto/300.css";
 
 	let { children } = $props();
-
-	export const prerender = true;
-	export const trailingSlash = "always";
 </script>
 
 <svelte:head>
